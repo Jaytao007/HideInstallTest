@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HideInstallTest</string>
+    <string name="str_hide_install">HideInstall</string>
+    <string name="str_hide_uninstall">HideUninstall</string>
+    <string name="str_install">install</string>
+    <string name="uninstall_enable">enable uninstall</string>
+    <string name="uninstall_disable">disable uninstall</string>
+    <string name="hide_install_test">Hide install test</string>
+</resources>
